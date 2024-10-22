@@ -245,7 +245,7 @@ const projects = [
       },
     ],
     image: oneai,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/beingsage/one_ai",
   },
   {
     name: "Cloud Anamoly Detection",
